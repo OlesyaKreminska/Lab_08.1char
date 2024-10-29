@@ -1,0 +1,9 @@
+﻿  Lab_08.1char.cpp
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(14,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(33,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(40,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Lab_08.1char.vcxproj -> C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\x64\Debug\Lab_08.1char.exe

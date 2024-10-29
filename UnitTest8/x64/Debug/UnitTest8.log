@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  UnitTest8.cpp
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\UnitTest8\UnitTest8.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\UnitTest8\UnitTest8.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\UnitTest8\UnitTest8.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest8.cpp')
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\UnitTest8\UnitTest8.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\UnitTest8\UnitTest8.cpp(2,1):
+      use of precompiled header
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file '/UnitTest8.cpp')
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(14,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.cpp')
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(33,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.cpp')
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(40,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.cpp')
+  
+     Creating library C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\x64\Debug\UnitTest8.lib and object C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\x64\Debug\UnitTest8.exp
+  UnitTest8.vcxproj -> C:\Users\Iryna Kreminska\source\repos\Lab_08.1char\x64\Debug\UnitTest8.dll
